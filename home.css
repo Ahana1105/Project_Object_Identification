@@ -1,0 +1,30 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+.heading
+{
+font-size: 38px;
+width: 100%;
+margin: 0px;
+font-family: fantasy;
+color:darkblue;
+letter-spacing: 2px;
+}
+
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 8px;
+}
+
+
+h3 {
+    font-size:25px;
+}
+
+
